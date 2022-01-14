@@ -26,7 +26,7 @@ Recommended IDE :
 
 1. Clone the repoitory of back-end on your computer:
 
-    https://github.com/Yagini/P9-front-end-dashboard
+    https://github.com/NymeriaLucky/P9-front-end-dashboard
 
 2. In the local repository, install all dependencies:
     
@@ -40,7 +40,7 @@ Recommended IDE :
 
 1. Clone the repository of front-end:
 
-   https://github.com/Yagini/LionelCorre_P12_030821
+   https://github.com/NymeriaLucky/MyriamG_P12081221
 
 2. In the local repository, install dependencies:
 
