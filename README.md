@@ -26,7 +26,7 @@ Recommended IDE :
 
 1. Clone the repoitory of back-end on your computer:
 
-    https://github.com/NymeriaLucky/P9-front-end-dashboard
+  git clone
 
 2. In the local repository, install all dependencies:
     
@@ -34,7 +34,7 @@ Recommended IDE :
 
 3. Launch back-end (port 3000 by default):
 
-    `npm start`
+    `npm start`(yarn start)
 
 ## Install and launch the front-end
 
@@ -48,7 +48,7 @@ Recommended IDE :
 
 3. launch front-end (port 3001 if the back-end is loaded) :
 
-    `npm start`
+    `npm start`(yarn start)
 
 # 5. React
 # Getting Started with Create React App
@@ -59,7 +59,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`(yarn start)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
