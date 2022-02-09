@@ -50,6 +50,10 @@ Recommended IDE :
 
     `npm start`(yarn start)
 
+## Install and launch the back-end
+https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
+
+
 # 5. React
 # Getting Started with Create React App
 
